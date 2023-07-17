@@ -10929,7 +10929,7 @@ hr.divider-light {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
-  background: linear-gradient(to bottom, rgba(0,0,0, 0.8) 0%, rgba(0,0,0, 0.8) 100%), url("https://app.powerbi.com/groups/me/reports/5e146c51-c52a-4b9e-ba51-113b82a4d823/ReportSection?bookmarkGuid=6297d41c-f194-4d4d-9745-a86a8d6a0230&bookmarkUsage=1&ctid=e6193331-b1be-4c4b-bce1-6e536a914527&portalSessionId=654f306f-36e0-4243-811e-e16d9c5a586c&fromEntryPoint=export");
+  background: linear-gradient(to bottom, rgba(0,0,0, 1) 0%, rgba(0,0,0, 1) 100%), url("https://app.powerbi.com/groups/me/reports/5e146c51-c52a-4b9e-ba51-113b82a4d823/ReportSection?bookmarkGuid=6297d41c-f194-4d4d-9745-a86a8d6a0230&bookmarkUsage=1&ctid=e6193331-b1be-4c4b-bce1-6e536a914527&portalSessionId=654f306f-36e0-4243-811e-e16d9c5a586c&fromEntryPoint=export");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
